@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\engma\documents\opengl stuff\include\learnopengl\shader_s.h(52): warning C4101: 'infoLog': unreferenced local variable
+c:\users\engma\documents\opengl stuff\include\learnopengl\shader_s.h(51): warning C4101: 'success': unreferenced local variable
+  textures.vcxproj -> C:\Users\engma\source\repos\textures\Debug\textures.exe
+  textures.vcxproj -> C:\Users\engma\source\repos\textures\Debug\textures.pdb (Partial PDB)
