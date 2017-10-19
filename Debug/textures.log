@@ -1,5 +1,21 @@
 ﻿  Source.cpp
-c:\users\engma\documents\opengl stuff\include\learnopengl\shader_s.h(52): warning C4101: 'infoLog': unreferenced local variable
-c:\users\engma\documents\opengl stuff\include\learnopengl\shader_s.h(51): warning C4101: 'success': unreferenced local variable
+c:\users\engma\source\repos\textures\textures\source.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+opengl32.lib(OPENGL32.dll) : warning LNK4209: debugging information corrupt; recompile module; linking object as if no debug info
+opengl32.lib(OPENGL32.dll) : warning LNK4209: debugging information corrupt; recompile module; linking object as if no debug info
+opengl32.lib(OPENGL32.dll) : warning LNK4209: debugging information corrupt; recompile module; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(context.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(init.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(input.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(monitor.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(vulkan.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(window.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_init.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_joystick.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_monitor.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_time.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_tls.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_tls.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(win32_window.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(wgl_context.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB 'glfw.pdb' was not found with 'glfw3.lib(egl_context.obj)' or at 'C:\Users\engma\source\repos\textures\Debug\glfw.pdb'; linking object as if no debug info
   textures.vcxproj -> C:\Users\engma\source\repos\textures\Debug\textures.exe
   textures.vcxproj -> C:\Users\engma\source\repos\textures\Debug\textures.pdb (Partial PDB)
